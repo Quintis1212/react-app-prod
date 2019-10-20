@@ -1,0 +1,19 @@
+.MenuPanel {
+    background-color: #9e82;
+    display: flex;
+    justify-content: space-between;
+}
+
+.MenuPanel h1 {
+    color: violet;
+    margin: 0;
+    padding: 10px ;
+    cursor: pointer;
+}
+
+.MenuPanel h1:hover {
+    color: #82d1eed1;
+    padding: 10px ;
+    background-color: #ee82ee29;
+}
+
